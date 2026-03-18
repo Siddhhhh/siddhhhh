@@ -8,10 +8,9 @@ Hi, I'm Siddhaarth 👋<br><br>I'm a final-year Artificial Intelligence & Machin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" style="vertical-align: top;"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:siddhuc2005@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="38"/>
-  </a>
-</p>
+<a href="mailto:siddhuc2005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 
 
 ## 📄 Resume
