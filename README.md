@@ -12,10 +12,11 @@ Hi, I'm Siddhaarth 👋<br><br>I'm a final-year Artificial Intelligence & Machin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="38"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="./Siddhaarth_Resume.pdf" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/resume.png" width="38"/>
-  </a>
-</p>
+## 📄 Resume
+
+<a href="./Siddhaarth_Resume.pdf" target="_blank">
+  <img src="https://img.icons8.com/color/48/resume.png" width="40"/>
+</a>
 
 ## 💻 Tech Stack
 
