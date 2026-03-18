@@ -4,7 +4,7 @@ Hi, I'm Siddhaarth 👋<br><br>I'm a final-year Artificial Intelligence & Machin
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/siddhaarthc" target="_blank">
+  <a href="https://www.linkedin.com/in/siddhaarth-c-3373172a2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
 
