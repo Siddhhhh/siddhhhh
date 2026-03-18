@@ -4,15 +4,15 @@ Hi, I'm Siddhaarth 👋<br><br>I'm a final-year Artificial Intelligence & Machin
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/siddhaarthc" target="_blank">
+  <a href="https://linkedin.com/in/siddhaarthc" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:siddhuc2005@gmail.com">
+  <a href="mailto:siddhuc2005@gmail.com" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="38"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="./Siddhaarth_Resume.pdf" target="_blank">
+  <a href="./Siddhaarth_Resume.pdf" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/resume.png" width="38"/>
   </a>
 </p>
