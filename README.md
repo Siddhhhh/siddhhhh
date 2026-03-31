@@ -35,13 +35,6 @@ Hi, I'm Siddhaarth 👋<br><br>I'm a final-year Artificial Intelligence & Machin
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddhhhh&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=siddhhhh&theme=omni&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhhhh&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=siddhhhh&icon=0&color=4)](https://visitcount.itsvg.in)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddhhhh?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
